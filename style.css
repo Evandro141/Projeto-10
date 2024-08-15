@@ -62,3 +62,9 @@ p:not(.negar) {
 h3:only-child {
     background-color: chocolate;
 }
+
+
+Adicionado Cor Aos Meus Títulos
+h1{
+    background-color: aqua;
+}
